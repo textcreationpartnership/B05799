@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Serious and faithfull representation of the judgements of ministers of the gospell within the province of London. Contained in a letter from them to the generall and his counsel of warre./ Delivered to his excellency by some of the subscribers, Jan. 18. 1649.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05799</idno>
+            <idno type="STC">Wing S2604BA</idno>
+            <idno type="STC">ESTC R188958</idno>
+            <idno type="EEBO-CITATION">47012649</idno>
+            <idno type="OCLC">ocm 47012649</idno>
+            <idno type="VID">174614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174614)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2693:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Serious and faithfull representation of the judgements of ministers of the gospell within the province of London. Contained in a letter from them to the generall and his counsel of warre./ Delivered to his excellency by some of the subscribers, Jan. 18. 1649.</title>
+                  <author>Gataker, Thomas, 1574-1654.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>by M.B. for Samuel Gellibrand, and Ralph Smith,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Your servants in the Lord, Tho. Gataker, Pastor of Rotherhith, et. al.</note>
+                  <note>Reproduction of original in: University of London. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671. --  Remonstrance of His Excellency, Thomas Lord Fairfax, Lord Generall of the Parliaments forces.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174614:1"/>
+            <p>A ſerious and faithfull REPRESENTATION Of the Judgements Of MINISTERS of the GOSPELL Within the PROVINCE OF LONDON. Contained In a LETTER from them to the Generall and his Counſel of Warre.</p>
+            <p>Delivered to his EXCELLENCY by ſome of the Subſcribers. <hi>Jan.</hi> 18. 1649.</p>
+            <q>
+               <bibl>
+                  <hi>Proverbs 24.11, 12.</hi>
+               </bibl>
+               <p>If thou forbeare to deliver them that are drawne unto death, and thoſe that are ready to be ſlaine:</p>
+               <p>If thou ſayeſt, Behold we know it not; doth not he that pondereth the heart conſider it? and he that keepeth thy ſoul, doth not he know it? and ſhall not he render to every man ac<g ref="char:EOLhyphen"/>cording to his works?</p>
+            </q>
+            <p>Imprinted at <hi>London</hi> by <hi>M. B.</hi> for <hi>Samuel Gellibrand,</hi> and <hi>Ralph Smith.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174614:2"/>
+            <pb n="1" facs="tcp:174614:2"/>
+            <head>A LETTER From MINISTERS of the GOSPELL within the Province of <hi>London,</hi> whoſe Names are Subſcribed: Delivered to His Excellency by ſome of the Subſcribers, <hi>Ian.</hi> 18. 1649. With deſire to have it communicated to the Gene<g ref="char:EOLhyphen"/>rall Councell of the Army.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency, with thoſe of your Counſell:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas of late divers Applications have been made, as well in writing as by verball Meſſages, inviting the Miniſters of <hi>London,</hi> or ſome of them, to meet with the Officers of the Army, in their conſultations about matters of Religion; We, Miniſters of the Goſpell within the Province of <hi>London</hi> hold it our Duty, as then to refuſe any ſuch meeting as was propoſed; ſo now to give your Lordſhip and your Councell the Reaſons of that Refuſall, leaſt by our ſilence we ſhould ſeem to be wanting in that ingenuity and Candor which becomes all, but eſpecially the Miniſters of Jeſus Chriſt. And underſtanding that ſome of our Brethren, at one Conference before your Lordſhip and ſome of your Counſell, <hi>Mr. Marſhall, Mr. Calamy, Mr. Whitakers, Mr. Sedgwick,</hi> &amp;c.
+<pb n="2" facs="tcp:174614:3"/>and at another with ſome of your chief Officers, <hi>Mr. Whitaker, Mr. Calamy, Mr. Aſh,</hi> &amp;c. have already manifeſted their diſlike, both of your late Actions towards many of the Worthy Members of the Honourable Houſe of Commons, and what likewiſe you have publiſhed in your late Remonſtrance and Declaration, as your intention for ſetling the Affaires of the Kingdome, (as we were informed by ſome of them, and willed thus to ſignifie,) Wee thought fit hereby to manifeſt our Concurrence with thoſe our Reverend Brethren, Humbly deſiring, That while we uſe that Plainneſſe and Freedome which becometh the Ambaſſadors of Chriſt, this our performance may not be miſ-interpreted, either as a trangreſſing the Law of Chriſtian meekneſſe, or an exceeding the Bounds of Miniſteriall li<g ref="char:EOLhyphen"/>berty; Wee being commanded to cry aloud, and to lift up our voices as Trum<g ref="char:EOLhyphen"/>pets, to ſhew the People their Tranſgreſſions, and the houſe of <hi>Jacob</hi> their ſinnes.</p>
+            <p>Had a Conference been deſired with us only to have given you reſolution, whe<g ref="char:EOLhyphen"/>ther the wayes wherein at the preſent you are walking, are agreeable to the Word of God (which Caſe indeed had been ſuitable for private perſons to have pro<g ref="char:EOLhyphen"/>pounded, and for Miniſters of the Goſpell to have reſolved) Wee ſhould moſt willingly and freely have delivered our Judgements (as our fore-mentioned Bre<g ref="char:EOLhyphen"/>thren have done) concerning theſe your practiſes; and have given you this as our Advice, grounded upon Scripture; Namely, That in ſtead of proceeding further in ſuch unwarrantable courſes, you ſhould have teſtified your timely and godly ſorrow for what (ſo clearly againſt the direct Rule of the Word) you have alrea<g ref="char:EOLhyphen"/>dy acted.</p>
+            <p>And if only for clearing of this Caſe, a Conference had been deſired, It was from the firſt profeſſed that we ſhould be ready and willing to meet, where and with whomſoever, to aſſert and maintain our Judgement therein. But as if the juſtneſſe of your way were already granted by us; Wee were only invited to con<g ref="char:EOLhyphen"/>tribute our aſſiſtance in proſecution of what you had undertaken, which wee con<g ref="char:EOLhyphen"/>ceive to be out of your Sphere; And for us to have joined in any conſultations of this nature, would have made us acceſſary unto them; guilty of the evil which is in them, and even, <hi>partakers of other mens ſins,</hi> 1 <hi>Tim.</hi> 5.22. contrary to the Apoſtles rule. who bids us, 1 <hi>Theſ.</hi> 5.22. <hi>abſtaine</hi> even <hi>from all appearance of evill,</hi> and, <hi>Epheſ.</hi> 5.11. <hi>have no fellowſhip with the unfruitfull works of darkneſſe, but re<g ref="char:EOLhyphen"/>prove them rather.</hi>
+            </p>
+            <p>It is already ſufficiently known (beſides all former miſcarriages) what At<g ref="char:EOLhyphen"/>tempts of late have been put in practiſe againſt lawfull Authority: Eſpecially by your late Remonſtrance, and Declaration publiſhed in oppoſition to the pro<g ref="char:EOLhyphen"/>ceedings of Parliament; As alſo by ſeizing and impriſoning the Kings perſon, without the knowledge and conſent of Parliament, and by that late unparalled violence offered to the Members of it, forcibly hindering above one hundred of them (if we miſtake not the number) from ſitting in Parliament, Impriſoning many of their Perſons; though many of them are known to us to be men of emi<g ref="char:EOLhyphen"/>nent Worth and Integrity, and who have given moſt ample Teſtimony of their reall Affections to the good of the Kingdome; and beſides all this, there is an intent of Framing and contriving a new module, aſwell of the Lawes and Go<g ref="char:EOLhyphen"/>vernment
+<pb n="3" facs="tcp:174614:3"/>of the Kingdome, as of the Conſtitution of a new kinde of <hi>Repreſenta<g ref="char:EOLhyphen"/>tive</hi> (as you call it) in ſtead of this and all future Parliaments; and this to be Subſcribed throughout the Kingdome, under the notion of an <hi>Agreement of the People;</hi> as is Declared in your late Remonſtrance, of <hi>November,</hi> 16. 1648. <hi>pag.</hi> 67. All which practiſes we cannot but judge, to be manifeſtly oppoſite to the lawfull Authority of thoſe Magiſtrates, which God hath ſet over us, and to the Duty and Obedience, which by the Lawes of God and Man, and by our mani<g ref="char:EOLhyphen"/>fold Oathes and Covenants, we ſtand obliged to render to them. And therefore we judge it our Duty, rather to teſtifie our utter diſlike, and deteſtation, then to give any (though but implicite and interpretative) approbation of them.</p>
+            <p>We remember the advice of <hi>Solomon.</hi> Prov. 24.21. <hi>Fear thou the Lord, and the King, and meddle not with them that are given to change;</hi> And that of <hi>Paul,</hi> 2 Theſſ. 3.6. <hi>Withdraw from every Brother that walketh <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, diſorderly, and not according to the Traditions which you have received of us:</hi> Of which this is one, Tit. 3.1. <hi>Put them in minde to be ſubject to Principallities and Powers, and to obey Magiſtrates:</hi> And Rom. 13.1, 2. <hi>Let every ſoul be ſubject to the higher Powers, for there is no powe, but of God, the Powers that be are Ordained of God: Whoſoever therefore reſiſteth ther Power, reſiſteth the Ordinance of God, and they that reſiſt, ſhall receive to themſelves damnation.</hi> The fear of God therefore (whoſe Ordinance is violated, when Ma<g ref="char:EOLhyphen"/>giſtracy is oppoſed) makes us afraid of medling with thoſe who without any co<g ref="char:EOLhyphen"/>lour of Legall Authority, meerely upon the Preſumption of Strength, ſhall at<g ref="char:EOLhyphen"/>tempt ſuch Changes as theſe are. And Wee cannot but be deepely affected with grief and aſtoniſhment, to ſee that an Army, raiſed by Authority of Parliament, for the Preſervation of the Priviledges thereof, and of our Religion, Lawes and Liberties, ſhould contrary to their truſt, and many ingagements, do that which tends to the manifeſt Subverſion of them all.</p>
+            <p>Wee have not forgotten thoſe declared Grounds and Principles, upon which the Parliament firſt took up Armes, and upon which Wee were induced to join with them; (from which Wee have not hitherto declined, and We truſt through Gods grace never ſhall.) We remember, That when the King, with a multitude of Armed men, demanded but a ſmall number (in compariſon of thoſe now ſecluded by you) of the Members of Parliament: It was deemed ſuch an horrid Violation of their Priviledges, and an act ſo injurious, and Deſtructive to the good of the Kingdome, as had not (then) any Precedent or Parallel; And of what nature it was judged to be, by a Parliament then free and full may appear by the Order of the Houſe of Commons of <hi>January</hi> 3. 1641. When, hearing but of a purpoſe in the King to Seiſe upon ſome of their Members, they declared <q>If any Perſon whatſoever, ſhall offer to Arreſt, or Detain, the Perſon of any Member of this Houſe, without firſt acquainting this Houſe therewith, and receiving further Order from this Houſe, That it is lawfull for ſuch Member, or any Perſon to aſſiſt him, and to ſtand upon his or their Guard of Defence, and to make reſiſtance, according to the Proteſtation taken to Defend the Priviledges of Parliament; and by the Declaration of JANUARY 17, 1641. That the arreſting of any Member of Parliament, by any Warrant whatſoever, without
+<pb n="4" facs="tcp:174614:4"/>a Legall proceeding againſt them, and without conſent of that Houſe, where<g ref="char:EOLhyphen"/>of ſuch perſon is a Member, is againſt the Liberty of the Subject, and a Breach of Priviledge of Parliament; And the perſon which ſhall arreſt any of theſe perſons, or any other Member of the Parliament, is Declared a pub<g ref="char:EOLhyphen"/>lick Enemie of the Common-wealth.</q>
+            </p>
+            <p>And this Violation of their Priviledges, was that which did occaſion firſt a Guard, and was afterward one Reaſon of raiſing an Army: But that an Army thus raiſed by their Authoritie, and for their preſervation, ſhould now ſo far exceed that Act which was then eſteemed without paralel, could hardly have been ima<g ref="char:EOLhyphen"/>gined by us, had not our eyes been Witneſſes of it.</p>
+            <p>And although both Houſes of Parliament (who are joyntly together with the King, intruſted with the Supreme Authority of the Kingdome) ſaw cauſe to take up Armes for their own Defence, againſt the Attempts made upon them by the King and his Evill Councellers; and for the preſervation of the Proteſtant Religion eſtabliſhed (which was then indangered by the growth of ſeverall Errors and Innovations;) and for the ſecuring of the Fundamentall Lawes and Con<g ref="char:EOLhyphen"/>ſtitutions of the Kingdome, which they apprehended then to be underminded by ſeverall Illegall incroachments: Yet this cannot be pleaded as any Juſtification or Precedent for you (who, in reference to the power of Magiſtracie, are but private perſons) to uſurpe an Authority over King and Parliament, and to in<g ref="char:EOLhyphen"/>termedle with affaires which belong not to you. For the Lawes of GOD, Nature, and Nations, together with the Dictates of Reaſon, and the Common conſent of all Caſuiſts allow that to thoſe which are intruſted with managing the Supreame Authority of a State or Kingdome, which they do not allow to a multitude of private Perſons, though they have ſtrength in their hands to effect it.</p>
+            <p>And moreover, although the Parliament thus took up Arms for the Defence of their Perſons and Priviledges, and the preſervation of Religion, Lawes, and Liberties; Yet it was not their intention thereby to do violence to the Perſon of the King, or deveſt him of his Regall Authority, and what of Right be<g ref="char:EOLhyphen"/>longeth to him, (as appeares by their many Declarations in that behalf:) Much leſſe was it their purpoſe to ſubvert and overthrow the whole frame and fundamen<g ref="char:EOLhyphen"/>tall conſtitution of the Government of the Kingdome, or to give power and authority to any perſons whatſoever ſo to do.</p>
+            <p>And therefore we apprehend our ſelves obliedged thus to appear for the main<g ref="char:EOLhyphen"/>tenance of our Religion, Lawes and Liberties, together with the Conſtitution, Power, and Priviledges of Parliament, and the ſetled Government of the King<g ref="char:EOLhyphen"/>dome; both, on the one hand, againſt all Malignant Counſels and Deſignes for the introduction of an Arbitrary and Tyrrannicall power in the King; and on the other hand, againſt all irregular licentious proceedings of private Perſons, tending to the ſubverſion of them, and to the introduction of Anarchy, Con<g ref="char:EOLhyphen"/>fuſion, Prophanneſſe, and Irreligion.</p>
+            <p>And we are the more ſtrongly engaged thus to adhere firmely to theſe our for<g ref="char:EOLhyphen"/>mer juſt principles, by reaſon of the ſeverall Oathes and Covenants generally taken throughout the Kingdome, as by the Proteſtation of MAY 5. 1641.
+<pb n="5" facs="tcp:174614:4"/>Wherein we do in the preſence of <q>Almighty God promiſe, vow and proteſt, according to the dutie of our Allegiance to maintain and Defend with our lives, power and eſtates, His Majeſties Royall Perſon, Honour and Eſtate, and the Power and Priviledges of Parliament. As alſo by the Vow and CO<g ref="char:EOLhyphen"/>VENANT, wherein the Lords and Commons have Declared, that there had then been a treacherous and horrid deſign to ſurprize the Cities of LONDON and WESTMINSTER with the Suburbs, and by Arms to force the Parliament: And finding by conſtant experience, that many wayes of force and treachery are continually attempted, &amp;c. <hi>Required,</hi> That all that are true-hearted and lovers of their Country, ſhould bind themſelves each to other in that Sacred Vow and Covenant, wherein we Declare our abhorring and deteſting the ſaid wicked and treacherous deſigne, and that we would according to our power and vocation oppoſe and reſiſt the ſame, and all other of the like nature. And likewiſe by the <hi>Solemn League and Covenant for the Reformation and Defence of Re<g ref="char:EOLhyphen"/>ligion, the Honour and Happineſſe of the King, the Peace and Safety of the King<g ref="char:EOLhyphen"/>domes,</hi> &amp;c. Wherein we have Covenanted, That we will ſincerely, really and conſtantly in our ſeverall Vocations, endeavour to preſerve the Rights and Priviledges of the Parliaments, and Preſerve and Defend the Kings Majeſties Perſon and Authority, in the preſervation and Defence of the true Religion, and Liberties of the Kingdomes; that the World may bear witneſſe with our Conſciences of our Loyalty, and that we have no thoughts or intentions to di<g ref="char:EOLhyphen"/>miniſh His Majeſties juſt power and greatneſſe.</q>
+            </p>
+            <p>In all which obligations, though the matter of them may be, in part, of Ci<g ref="char:EOLhyphen"/>vill concernment yet the bond and tye of an Oath and Covenant is Religious, ſacred, and inviolable. Which though ſome may eſteem no more then an AL<g ref="char:EOLhyphen"/>MANACK out of date, yet we look upon it as the Oath of GOD, in whoſe Name we have ſworne, and who will certainly require it at our hands.</p>
+            <p>We know with what a jealous eye, and ſevere hand, the LORD avenged the quarrell of his Covenant made by <hi>Zedekiah</hi> to the King of <hi>Babylon,</hi> though extor<g ref="char:EOLhyphen"/>ted from him, and prejudiciall to him. EZEK. 17.14, 15.18, 19. <hi>Shall he pro<g ref="char:EOLhyphen"/>ſper</hi> (ſaith GOD) <hi>ſhall he eſcape, that doth ſuch things? Or ſhall he break the Covenant, and be delivered? As I live, ſaith the Lord, ſeeing he deſpiſed the Oath by breaking the Covenant (when lo, he had given his hand) he ſhall not eſcape. Therefore thus ſaith the Lord God, As I live, ſurely mine Oath that he hath deſpiſed, and my Covenant that hath broken, even it will I recompence upon his own head.</hi> We dare not therefore (when we have lift up our hands to the moſt High GOD) by the violation of a more righ<g ref="char:EOLhyphen"/>teous Oath, provoke the wrath of the LORD againſt us, who is the Searcher of all hearts, and to whom we muſt give an accompt at the Great Day.</p>
+            <p>In ſtead therefore of joyning in Conſultation with you; We doe earneſtly in treat you, in the name of our Lord and Maſter Jeſus Chriſt, whoſe Ambaſſa<g ref="char:EOLhyphen"/>dours we are, That you would commune with your own hearts, conſider the evill of your preſent wayes, and turn from them; Remember from whence you are fallen, and repent and do your firſt works. You were once honourable and pre<g ref="char:EOLhyphen"/>cious in the eyes of us and others of Gods ſervants, while you kept in Gods way,
+<pb n="6" facs="tcp:174614:5"/>and within your own ſpheare; you had our hearts, our help, and our prayers for ſucceſſe therein: But alas! you have eclipſed your own glory, and brought a Cloud over all your excellencies. You are now walking in by-paths of your own. where<g ref="char:EOLhyphen"/>in we dare not ſay, <hi>Pſal.</hi> 129.8. <hi>The bleſſing of the Lord be upon you, We bleſſe you in the name of the Lord,</hi> nor <hi>bid you God ſpeed, leſt we be partakers of your evill deeds.</hi> 2 <hi>John v.</hi> 11. In ſtead of preſerving the Truth and purity of Religion and the Worſhip of God; we fear, you are opening a door to deſparate and damnable Er<g ref="char:EOLhyphen"/>rors and Hereſies againſt the Truth of God, and to many licentious and wicked practiſes againſt the worſhip and wayes of God. How is Religion made to ſtink by reaſon of your miſcarriages, and like to become a ſcorn and re<g ref="char:EOLhyphen"/>proach in all the Chriſtian world? How are the faces of Gods faithfull ſervants covered with ſhame, and their hearts filled with ſorrow and grief by reaſon there<g ref="char:EOLhyphen"/>of? How is the Golden Cord of Government broken in ſunder? the Honor and Authority of Magiſtracy laid in the Duſt? How hath the <hi>Parliament,</hi> which ſu<g ref="char:EOLhyphen"/>ſtained the force and oppoſition of profeſſed Enemies for many years, been made contemptible and torn in pieces by profeſſed friends in one day?</p>
+            <p>You cannot but know how fully and frequently Gods Word commandeth and inforceth obedience and ſubmiſſion to Magiſtrates, forbidding alſo and condem<g ref="char:EOLhyphen"/>ning (and that under pain of damnation,) ſuch practiſes as theſe of yours are. As likewiſe what ſevere threatnings and exemplary judgements from God have been denounced againſt, and inflicted on the Contemners and Oppoſers of this his Ordinance. You know what a Brand the Apoſte <hi>Jude</hi> puts upon thoſe that <hi>deſpiſe Dominion and ſpeak evill of Dignities. Jude v.</hi> 8, 11. <hi>Wo unto them</hi> (ſaith he) <hi>for they have gone in the way of</hi> Cain, <hi>and run greedily after the errour of</hi> Balaam <hi>for a reward, and periſhed in the gainſaying of</hi> Corah.</p>
+            <p>You know the ſad examples of <hi>Corah, Dathan,</hi> and <hi>Abiram</hi> in their mutinous Rebellion, and Levelling deſigne againſt Magiſtracy and Miniſtry, in the Per<g ref="char:EOLhyphen"/>ſons of <hi>Moſes</hi> and <hi>Aaron, You take too much upon you</hi> (ſaid they to <hi>Moſes</hi> and <hi>Aaron</hi>) <hi>Seeing all the Congregation are holy.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Or Saints. <hi>Wherefore then lift you up your ſelves above the Congregation of the Lord?</hi> Which <hi>Moſes</hi> feares not to call <hi>Aga<g ref="char:EOLhyphen"/>thering together againſt the Lord</hi> and warnes the people to avoid their company <hi>Num.</hi> 16.3 11 26 32 33 29. <hi>Depart from the Tents of theſe wicked men, and touch nothing of theirs, leſt ye be conſumed in all their ſins;</hi> After which the Earth opened her mouth, and ſwallowed them up, with all that appertained to them: And yet there were in that Rebellion a conſiderable number of Eminent men, <hi>two hundreth and fifty Princes of the Aſſembly, famous in the Congregation, men of Renowne.</hi>
+            </p>
+            <p>And conſonant to the tenor of the Scriptures herein, hath alway been the con<g ref="char:EOLhyphen"/>ſtant judgement and doctrine of Proteſtant Divines both at home, and abroad, with whoſe Judgements we do fully concurre; diſclaiming, deteſting and ab<g ref="char:EOLhyphen"/>horring the wicked and bloudy Tenents and Practiſes of Jeſuites, (the worſt of Papiſts,) concerning the oppoſing of lawfull Magiſtrates by private Perſons, and the murthering of Kings by any, though under the moſt ſpecious and colourable pretences. Which Jeſuiticall Principles and Counſels we fear, may have too great a concurrence with, if not an influence upon theſe late tranſactions.</p>
+            <pb n="7" facs="tcp:174614:5"/>
+            <p>Now we deſire you ſeriouſly, and as in the ſight of God, to examine your own hearts and wayes, and to deal with your ſelves as ſometimes <hi>Nathan</hi> did with <hi>Da<g ref="char:EOLhyphen"/>vid.</hi> Put caſe ſome other Party of men in the Kingdome, whoſe Principles had not been concurrent with yours, ſhould have attempted acts of ſuch a nature, as thoſe that you have performed; as ſeiſing the Kings perſon, and removing him from place to place without and againſt his and the Parliaments conſent: would it not have been judged by you an intolerable contempt both of his and their autho<g ref="char:EOLhyphen"/>rity? Put caſe they and their Confederates had attempted the removall of the Parliaments Guards, ſecured or inhibited a great number of their Members, con<g ref="char:EOLhyphen"/>trived and promoted new Modules of their own, deſtructive to the being both of this and all other Parliaments, with other acts of the like nature; we appeale to your own conſciences, what clamours and accuſations againſt them would from your ſelves have proceeded. And if in other Perſons you would condemne the <hi>fact,</hi> the Lord grant you hearts to ſee <hi>who are the men.</hi> Was it once a crime of the higheſt nature, to endeavour the ſubverſion of the fundamentall Lawes of the Kingdome, to diſſwade the calling, or perſwade the diſſolution of Parliaments; to countenance Arminians, or connive at Papiſts: and can it be now commen<g ref="char:EOLhyphen"/>dable to contrive the ſubverſion of the whole Lawes and Government of the King<g ref="char:EOLhyphen"/>dome all at once; and in ſtead of a few errours to allow, (as we fear ſome amongſt you endeavour) a totall impunity, and univerſal Toleration of all Religions? <hi>Be not deceived, God is not mocked:</hi> He knows how frequently you condemne that as a great crime in others, which you would have accounted a vertue in your ſelves; But God who is no reſpecter of Perſons alloweth no ſuch rule. Rom. 1.22. <hi>Thoſe who knowing the judgement of God, that they which commit ſuch things are worthy of death; not only do the ſame things, but have pleaſure in,</hi> (or, <hi>conſent with</hi>) <hi>them that do them, in judging another condemne themſelves.</hi> Rom. 2.1.3. <hi>And thinkeſt thou this, O man, that judgeſt them which do ſuch things, and doeſt the ſame, that thou ſhalt eſ<g ref="char:EOLhyphen"/>cape the judgement of God?</hi> Verſes 2.6.11. No ſurely, <hi>we are ſure the Judgement of God is according to truth, againſt them which commit ſuch things, Who will render to every man according to his deeds; For there is no reſpect of Perſons with God.</hi>
+            </p>
+            <p>Wee deſire that you would not be too confident on former Succeſſes. If God have made you proſper while you were in His way, this can be no warrant for you to walk in wayes of your own, and promiſe your ſelves Succeſſe therein; Nay, if through Gods permiſſion (for reaſons beſt known to himſelf) you have had or may have Succeſſe in an Evil way, yet is it no juſtification thereof, nor incouragement to proceed therein. Yea, you know, that it is one of the greateſt Judgements, when God ſuffers men to proſper in ſinfull courſes. Wiſe <hi>Solomon</hi> tels us from his own experience, that <hi>there be</hi> ſometimes <hi>juſt men to whom it happeneth according to the work of the wicked: again, There be wicked men to whom it happeneth according to the work of the righteous,</hi> Eccleſi. 8.14. <hi>There is a juſt man that periſheth in his righteouſneſſe, and there is a wicked man that prolongeth his life in his wickedneſſe,</hi> Eccleſ. 7 15. But, <hi>becauſe ſentence againſt an evill work is not ex<g ref="char:EOLhyphen"/>ecuted speedily,</hi> ſhall <hi>therefore the heart of the ſons of men be fully ſet in them to do evill,</hi> Eccleſ. 8.11. God forbid.</p>
+            <p>And therefore the Providence of God (which is ſo often pleaded in juſtificati<g ref="char:EOLhyphen"/>on of your wayes) is no ſafe rule to walk by, eſpecially in ſuch acts as the Word of
+<pb n="8" facs="tcp:174614:6"/>God condemnes. God doth not approve the practiſe of whatſoever his providence doth permit. When <hi>David,</hi> in the cave, had an opportunity to deſtroy <hi>Saul,</hi> (who was then in actuall purſuance of him for his life,) <hi>Davids</hi> men make uſe of ſuch an Argument from Providence, <hi>Behold,</hi> ſay they, <hi>the day of which the Lord ſaid unto thee, Behold, I will deliver thine enemy into thine hand that thou mayeſt do to him as it ſhall ſeem good unto thee,</hi> 1 Sam. 14 4, 6, 7, 13. but <hi>David</hi> neither durſt himſelf, nor would permit his men to make uſe thereof; but ſaith, <hi>The Lord forbid that I ſhould do this thing unto my Maſter the Lords Anoynted, to ſtretch forth my hand againſt him.</hi> Again, when <hi>David</hi> found <hi>Saul</hi> ſleeping in his Trench, behold a Providence (might <hi>Abiſhai</hi> have ſaid) <hi>God,</hi> ſaith he, <hi>hath delivered thine enemy into thine hand this day, now therefore let me ſmite him, &amp;c.</hi> 1 <hi>Sam.</hi> 26.8.9. No, ſaith <hi>David Deſtroy him not, for who can ſtretch forth his hand againſt the Lords Annointed and be guiltleſſe?</hi> But if to follow providence, had been a ſufficient warrant; <hi>David</hi> ſhould have ta<g ref="char:EOLhyphen"/>ken another courſe. In ſumme, if this be a good warrant, nothing can be a ſin, for nothing can come to paſſe at all, unleſſe the permiſſive Providence of God afford an opportunity.</p>
+            <p>Nor is it ſafe to be guided by impulſes of Spirit, or pretended impreſſions on your hearts, without or againſt the rule of Gods written Word. For by this meanes the temptations of Satan, and the motions of Gods ſpirit will be put in equall ballance. And we deſire you likewiſe to conſider, whether any Hiſtory, ſacred or prophane, recordeth any example of an impulſe of Spirit falling upon Multitudes of perſons at the ſame time, putting them all at once upon performan<g ref="char:EOLhyphen"/>ces contrary to Morall Precepts; as alſo, whether ſuch perſons who are acted by an impulſe of ſpirit, can Command others who want it, (nay, who do not ſo much as pretend to have it (to do that unto, which themſelves pretend to be ſo incited? We know that it is the duty of Chriſtians to try ſuch inſtigations by the Word of God, and examine how well they agree thereunto, that they may accor<g ref="char:EOLhyphen"/>dingly Judge, whether it bee the voice of God, or the voice of Satan, and of their own corrupt hearts, that prompteth them. <hi>Tothe Law and to the Teſtimony, if they ſpeak not according to this word, it is becauſe there is no light in them. Iſa.</hi> 28.20. The Apoſtle <hi>Peter</hi> directs the Jewes to whom he wrote, to adhere to the word written, as to <hi>a more ſure word of propheſie.</hi> 2 <hi>Pet.</hi> 1.19. By the ſame Rule, whereby we muſt <hi>try the ſpirits,</hi> we muſt alſo try the <hi>impulſes of ſpirit,</hi> otherwiſe we do exceedingly ſtrengthen the divels hands againſt our owne ſoules, and tempt him to tempt us.</p>
+            <p>If beyond all this you plead Neceſsity of doing thus, leaſt what you pretend as a glorious worke, might elſe miſcarry, and therefore venture on theſe wayes, which are by your ſelves confeſſed to be <hi>irregular and not juſtifyable;</hi> Wee anſwer, that no neceſsity can oblige a man to ſinne; God ſtands not in need of our ſin to carry on his owne worke. <hi>Will yee ſpeak wickedly for God, and talk deceit<g ref="char:EOLhyphen"/>fully for him?</hi> ſaith <hi>Job,</hi> Job 13.7.</p>
+            <p>And yet this Plea of neceſsity is of the leſſe weight in your caſe, becauſe, wee fear, the ends you aime at, are no more juſtifiable then the meanes you uſe; and the neceſsity pleaded is either meerly pretended, or at leaſt contracted by your owne miſcarriages.</p>
+            <p>But if at any time a precept of God may be diſpenſed with upon a neceſſity:
+<pb n="9" facs="tcp:174614:6"/>Yet, we ſuppoſe your ſelves will grant, That this neceſſity muſt be Abſolute, Pre<g ref="char:EOLhyphen"/>ſent, and Clear; not Doubtfull, Uncertain, and Conjeſturall, as that which is alledged in your caſe muſt needs be, it being diſcerned only by your ſelves and your own patty. It is moſt apparent to us, that there was of late no neceſſity at all of theſe your irregular practiſes; the Parliament being (till forced by you) full and free, acting what was Covenanted for, and (if we miſtake not) what was agreed upon long before by the Parliaments of both Kingdoms. Beſides you have engaged your ſelves by an Oath to preſerve his Majeſties perſon, and the Priviledges of Parliament; and this is moſt clear, That no neceſſity can juſtifie perjury, or diſpence with lawfull Oathes; That dreadfull <hi>flying Roll</hi> being rea<g ref="char:EOLhyphen"/>dy to ſeiſe upon him that <hi>ſweareth falſly by the Name of God.</hi> Zach 5.4. An ex<g ref="char:EOLhyphen"/>ample of which ſevere judgement from God, for the violation of an Oath, you have in SAUL, who though he did out of a good intention, <hi>in his zeal to the chil<g ref="char:EOLhyphen"/>dren of Iſrael,</hi> ſlay the <hi>Gibeonites</hi> (a people formerly accurſed, and who had fal<g ref="char:EOLhyphen"/>laciouſly procured a Covenant from JOSHua above two hundred years before) 2 Sam. 21.1, 2, 6. yet for SAULS breaking of that Covenant, was the whole Kingdome of Iſrael, and his poſterity in particular, moſt ſeverely puniſhed by GOD.</p>
+            <p>We do therefore upon the whole matter, ſeriouſly beſeech you, as in the ſight of God, to recede from theſe evil ways, &amp; contain your ſelves within your own bounds, to learn <hi>John Baptiſts</hi> Leſſon for Souldiers, <hi>Do violence to no man,</hi> Luke 3.14. (or put no man in fear) <hi>neither accuſe any man falſly, and be content with your wages.</hi> But if you perſiſt in theſe wayes, <hi>behold you have ſinned againſt the Lord, and be ſure your ſin will finde you out;</hi> and take heed, leſt, when the hand of God ſhall overtake you, and turn the wheel upon you, you be found to ſuffer both <hi>as evill doers,</hi> and <hi>as buſie-bodies in other mens matters.</hi> 1 Pet. 4.15.</p>
+            <p>And when you ſhall thus return to your duty; as we ſhall have cauſe to bleſſe GOD for it, ſo we ſhall not need to fear thoſe threatnings which ſome of us have received (we ſay not from your ſelves,) yet from Meſſengers directed (as they informed us) immediatly from your ſelves, to ſome of us, That <hi>if wee per<g ref="char:EOLhyphen"/>ſiſt to ſtir up the People to Sedition</hi> (for ſo it ſeemes our bewailing your ſins before the Lord, is interpreted) <hi>and Souldiers do us a miſchief, we may thank our ſelves;</hi> That <hi>if their follow another War, you will give quarter to none that ſtands againſt you;</hi> That <hi>you will ſpare neither man, woman, nor childe, Engliſh or Stranger.</hi> But if theſe our Exhortations prevail not, we have diſcharged our duty, and we hope, <hi>delivered our own ſoules,</hi> EZEK. 33.9. and if it be our portion to ſuffer, we truſt we ſhall <hi>ſuffer as Chriſtians, and for well doing,</hi> 1 Peter 4.16. 1 Peter 3.17. and that <hi>ſuch ſuffering ſhall be exceptable with God; in whoſe ſight the death of his Saints is precious;</hi> 1 Peter 2.20. Pſal. 116.15. <hi>Who when he maketh inquiſition for bloud forgetteth not the cry of the humble;</hi> Pſal. 9.12. and though ſome of us were told by one of the Meſſengers ſent from you, That <hi>if we put our ſelves upon ſuffering, wee ſhall have ſuffering enough;</hi> yet we know, That <hi>the God whom we ſerve is able to deliver us:</hi> Dan. 3.17. To whom in the diſcharge of our duty, <hi>we commit the keeping of our ſoules, as to a faithfull Creator.</hi> 1 Peter 4.19.</p>
+            <p>And thus out of a zeal to Gods glory, a care to diſcharge our own duties, and an hearty deſire after the comfort and ſalvation of your ſoules, we have free<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:174614:7"/>and faithfully declared our judgements concerning your late and preſent pro<g ref="char:EOLhyphen"/>ceedings. If the Lord pleaſe to make it effectuall for your Reformation, we and all the Churches of Chriſt ſhall have cauſe to bleſſe God for you; but if for our ſins, and the ſins of the Land, the Lord ſhall make you inſtruments of miſery and confuſion (which your preſent actings do certainly tend to) we will ſay with ELI, <hi>It is the Lord, let him do what ſeemeth him good.</hi> 1 Sam. 3.18. But we hope better things of you, and ſubſcribe our ſelves,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 17. 1649.</date>
+               </dateline>
+               <signed>Your Servants in the Lord,
+<list>
+                     <item>
+                        <hi>Tho: Gataker,</hi> Paſtor of Rotherhith.</item>
+                     <item>
+                        <hi>Geor. Walker,</hi> Paſtor of John Evangeliſt.</item>
+                     <item>
+                        <hi>Arthur Jackſon,</hi> Paſtor of Michael Woodſtreet.</item>
+                     <item>
+                        <hi>Char: Ofspring,</hi> Paſtor of Antholines.</item>
+                     <item>
+                        <hi>Henry Robrough,</hi> Paſtor of Leonards Eaſtcheap.</item>
+                     <item>
+                        <hi>Nicolas Profet,</hi> Miniſter of the Word at Foſters.</item>
+                     <item>
+                        <hi>Thomas Caſe,</hi> Miniſter of Maudlinſmilk-ſtreet.</item>
+                     <item>
+                        <hi>Stanly Gower,</hi> Miniſter of the Goſpel at Martins Ludgate.</item>
+                     <item>
+                        <hi>Andr. Janeway,</hi> of Alhallows on the Wall.</item>
+                     <item>
+                        <hi>Samuel Clerk,</hi> Miniſter at Bennet-Fynk.</item>
+                     <item>
+                        <hi>Tho: Clandon,</hi> Paſtor of Alhallows-bar<g ref="char:EOLhyphen"/>king.</item>
+                     <item>
+                        <hi>John Wall,</hi> Miniſter of Michael Cornhill.</item>
+                     <item>
+                        <hi>James Cranford,</hi> Paſtor of Chriſtophers.</item>
+                     <item>
+                        <hi>James Nalton,</hi> Paſtor of Leonard Fo<g ref="char:EOLhyphen"/>ſterlane.</item>
+                     <item>
+                        <hi>Thomas Cawton,</hi> Paſtor of Bartholomew Exchange.</item>
+                     <item>
+                        <hi>John Fuller,</hi> Miniſter of Butolphs Bi<g ref="char:EOLhyphen"/>ſhopſgate.</item>
+                     <item>
+                        <hi>Francis Roberts,</hi> Paſtor of Auſtins.</item>
+                     <item>
+                        <hi>William Tenken,</hi> Paſtor of Chriſt-Church</item>
+                     <item>
+                        <hi>Elidad Blackwel,</hi> Paſtor of Alhallows Underſhaft.</item>
+                     <item>
+                        <hi>William Harriſon,</hi> Miniſter of Grace-Church.</item>
+                     <item>
+                        <hi>John Sheffield,</hi> Miniſter of Swithins.</item>
+                     <item>
+                        <hi>Mathew Haviland,</hi> Miniſter of Trinity-Pariſh.</item>
+                     <item>
+                        <hi>George Smalewoood,</hi> Miniſter of Mildreds Poultrey.</item>
+                     <item>
+                        <hi>William Taylor,</hi> Paſtor of Stephens Col<g ref="char:EOLhyphen"/>manſtreet.</item>
+                     <item>
+                        <hi>Chriſtopher Love,</hi> Paſtor of Ann Alderſ<g ref="char:EOLhyphen"/>gate.</item>
+                     <item>
+                        <hi>Robert Mercer,</hi> Miniſter of Brides.</item>
+                     <item>
+                        <hi>Ralph Robinſon,</hi> Paſtor of Mary Wool<g ref="char:EOLhyphen"/>noth.</item>
+                     <item>
+                        <hi>William Blackmore</hi> Paſtor of Peters corn<g ref="char:EOLhyphen"/>hill.</item>
+                     <item>
+                        <hi>Fran: Peck,</hi> Paſtor of Nicolas Acons.</item>
+                     <item>
+                        <hi>Stephen Watkins,</hi> Miniſter of the Goſpel at Saviors Southwark.</item>
+                     <item>
+                        <hi>Wiliam Wickins,</hi> Paſtor of Andrew Hub<g ref="char:EOLhyphen"/>bard,</item>
+                     <item>
+                        <hi>Iohn Wallis,</hi> Miniſter of Martins Iron<g ref="char:EOLhyphen"/>monger-lane.</item>
+                     <item>
+                        <hi>Thomas Manton,</hi> Miniſter of Stoke-New<g ref="char:EOLhyphen"/>ingtoun.</item>
+                     <item>
+                        <hi>Tho: Gouge,</hi> Miniſter of Sepulchres.</item>
+                     <item>
+                        <hi>Tho: Watſon,</hi> Paſtor of Stevens Wal<g ref="char:EOLhyphen"/>brook.</item>
+                     <item>
+                        <hi>Nathaniel Staniforth,</hi> Miniſter of Mary-Bothaw.</item>
+                     <item>
+                        <hi>Iohn Halk,</hi> Preacher at Alhallows on the Wall.</item>
+                     <item>
+                        <hi>Iohn Glaſſcock,</hi> Miniſter of the Goſpel at Andrew Underſhaft.</item>
+                     <item>
+                        <hi>Thomas Whately,</hi> Paſtor of Mary Wool-Church.</item>
+                     <item>
+                        <hi>Iacob Tice,</hi> Paſtor of Buttolph Billingſ<g ref="char:EOLhyphen"/>gate.</item>
+                     <item>
+                        <hi>Ionathan Lloyd,</hi> Paſtor of James Garlick<g ref="char:EOLhyphen"/>hith,</item>
+                     <item>
+                        <hi>Iohn Morton,</hi> Paſtor of Newington Buts.</item>
+                     <item>
+                        <hi>Ioſhuah Kirby,</hi> Miniſter of the Word.</item>
+                     <item>
+                        <hi>Arthur Barham,</hi> Paſtor of Helens.</item>
+                     <item>
+                        <hi>Ben: Needler,</hi> Paſtor of Margaret Moſes.</item>
+                     <item>
+                        <hi>Iohn Wells,</hi> Miniſter of Olaves Jury.</item>
+                     <item>
+                        <hi>Robert Mathew,</hi> Miniſter of Andrew Wardrobe.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
